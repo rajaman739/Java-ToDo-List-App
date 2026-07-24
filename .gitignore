@@ -1,0 +1,15 @@
+# Compiled class files
+*.class
+
+# Runtime-generated data file
+tasks.txt
+
+# IDE files
+.idea/
+*.iml
+out/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
